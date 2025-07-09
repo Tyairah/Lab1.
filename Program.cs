@@ -40,10 +40,10 @@ class Program
         Console.WriteLine("Bool to String: " + boolToString);
 
        
-        Console.Write("Enter your name: ");
+        Console.Write("Enter your name: Tyairah Flowers ");
         string userName = Console.ReadLine();
 
-        Console.Write("Enter your age: ");
+        Console.Write("Enter your age: 20 ");
         int userAge = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Hello " + userName + "! You are " + userAge + " years old.");
