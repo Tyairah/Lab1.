@@ -4,10 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-          
+        /*  
         Name: Tyairah Flowers
         Title: IT-1050 - Lab 1
-        
+        */
 
        
         Console.WriteLine("Tyairah Flowers - IT-1050 - Lab 1");
